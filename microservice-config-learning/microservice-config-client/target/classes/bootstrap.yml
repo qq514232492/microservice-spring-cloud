@@ -1,8 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: http://localhost:8089
-      profile: production
-      label: master # 当configServer的后端存储是get时，默认是master
-  application:
-    name: foobar
