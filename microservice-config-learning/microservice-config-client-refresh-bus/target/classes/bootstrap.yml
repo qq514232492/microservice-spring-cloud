@@ -1,0 +1,23 @@
+spring:
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: microservice-config-server-eureka
+    bus:
+      trace:
+        enabled: true
+  application:
+    name: microservice-config-client-refresh
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.cloud.client.ipAddress}:${spring.application.instance_id:${server.port}}

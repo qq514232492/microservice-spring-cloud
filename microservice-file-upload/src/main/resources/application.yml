@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: microservice-file-upload
+  http:
+    multipart:
+      max-file-size: 2000Mb
+      max-request-size: 2500Mb
+server:
+  port: 8050
+user: 
+  userServicePath: http://localhost:7900/simple/
+eureka:
+  client:
+    healthcheck:
+      enabled: true
+    serviceUrl:
+      defaultZone: http://user:password123@localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 60000
+ribbon:
+  ConnectTimeout: 3000
+  ReadTimeout: 60000

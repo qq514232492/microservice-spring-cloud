@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8080
+      profile: dev
+      label: master # 当configServer的后端存储是get时，默认是master
+      username: user
+      password: password123
+  application:
+    name: foobar

@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cdad51e-3b42-45b9-89c1-f1db00b3ea6f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-without-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-discovery-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix-hystrix-factory/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-test/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix-propagation/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-feign-customizing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-discovery-eureka-ha/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-hystrix-turbine/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-hystrix-turbine3/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-hystrix-turbine2/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-properties-customizing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-feign-customizing-without-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-feign/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix2/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon-with-hystrix3/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-feign-with-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-gateway-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-file-upload/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-gateway-zuul-fallback/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-sidecar/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-gateway-zuul-filter/target/" />
+    <ignored path="$PROJECT_DIR$/config-learning/target/" />
+    <ignored path="$PROJECT_DIR$/micreservice-config-learning/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt-rsa/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-authentication/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-authentication/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1442632362">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1120">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>·</find>
+      <find>microservice-config-server-eureka</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\myworkspace\javaWorkspace\microservice-spring-cloud</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yml.bak3" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/java/com/itmuch/cloud/MicroserviceSimpleProviderUserApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-reg-exp/src/main/java/com/itmuch/cloud/ZuulRegExpApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-provider-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-file-upload/src/main/java/com/itmuch/cloud/controller/FileUploadConroller.java" />
+        <option value="$PROJECT_DIR$/microservice-file-upload/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-file-upload/src/main/java/com/itmuch/cloud/controller/FileUploadController.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-fallback/src/main/java/com/itmuch/cloud/ZuulFallBackApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-fallback/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-fallback/src/main/java/com/itmuch/cloud/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/microservice-sidecar/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-sidecar/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-sidecar/src/main/java/com/itmuch/cloud/SidecarApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/java/com/itmuch/cloud/PreZuulFiler.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/java/com/itmuch/cloud/ZuulFilterApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/micreservice-config-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/java/com/itmuch/cloud/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/java/com/itmuch/cloud/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt-rsa/src/main/resources/META-INF/additional-spring-configuration-metadata.json" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt-rsa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-authentication/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-authentication/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/src/main/java/com/itmuch/cloud/ConfigServerEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/ConfigClientRefreshApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\myworkspace\rep\mvn_rep" />
+        <option name="mavenHome" value="D:/develop software/maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-client-refresh-bus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-client-refresh-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-client-refresh-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-client-refresh-bus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-encrypt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-config-server-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30521643" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservice-config-learning/microservice-config-client" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="Run&#9;ACTION&#9;ActivateRunDashboardToolWindow" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myworkspace\javaWorkspace\microservice-spring-cloud\microservice-config-learning\microservice-config-server-encrypt-rsa\src\main\resources" />
+      <recent name="D:\myworkspace\javaWorkspace\microservice-spring-cloud\microservice-config-learning\microservice-config-server\src\main\resources" />
+      <recent name="D:\myworkspace\javaWorkspace\microservice-spring-cloud\microservice-gateway-zuul\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigClientRefreshBusApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientAuthenticationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-client-authentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientAuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-client-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientRefreshApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-client-refresh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientRefreshApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientRefreshBusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-client-refresh-bus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigClientRefreshBusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerAuthenticationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-server-authentication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerAuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerEncryptApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-server-encrypt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerEncryptApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerEncryptRsaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-server-encrypt-rsa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerEncryptRsaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-server-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itmuch.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConfigServerEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerMovieRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.DashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaHaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discovery-eureka-ha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.EurekaHaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-file-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.FileUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.MicroserviceSimpleConsumerMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.MicroserviceSimpleProviderUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SidecarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-sidecar" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.SidecarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulFallBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul-fallback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ZuulFallBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulFilterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul-filter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ZuulFilterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulRegExpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul-reg-exp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.cloud.ZuulRegExpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZuulRegExpApplication" />
+      <item itemvalue="Spring Boot.TurbineApplication" />
+      <item itemvalue="Spring Boot.ConsumerMovieFeignApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleProviderUserApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.DashboardApplication" />
+      <item itemvalue="Spring Boot.EurekaHaApplication" />
+      <item itemvalue="Spring Boot.FileUploadApplication" />
+      <item itemvalue="Spring Boot.SidecarApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigServerEncryptApplication" />
+      <item itemvalue="Spring Boot.ConfigClientRefreshApplication" />
+      <item itemvalue="Spring Boot.ConsumerMovieRibbonApplication" />
+      <item itemvalue="Spring Boot.ZuulFilterApplication" />
+      <item itemvalue="Spring Boot.ZuulFallBackApplication" />
+      <item itemvalue="Spring Boot.ConfigServerEncryptRsaApplication" />
+      <item itemvalue="Spring Boot.ZuulApplication" />
+      <item itemvalue="Spring Boot.ConfigServerAuthenticationApplication" />
+      <item itemvalue="Spring Boot.ConfigClientAuthenticationApplication" />
+      <item itemvalue="Spring Boot.ConfigServerEurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigClientEurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigClientRefreshBusApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClientRefreshBusApplication" />
+        <item itemvalue="Spring Boot.ConfigServerEurekaApplication" />
+        <item itemvalue="Spring Boot.ConfigClientEurekaApplication" />
+        <item itemvalue="Spring Boot.ConfigClientAuthenticationApplication" />
+        <item itemvalue="Spring Boot.ConfigServerAuthenticationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cdad51e-3b42-45b9-89c1-f1db00b3ea6f" name="Default" comment="" />
+      <created>1533551489779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533551489779</updated>
+      <workItem from="1533551492153" duration="13009000" />
+      <workItem from="1533619832262" duration="19204000" />
+      <workItem from="1533710252034" duration="9281000" />
+      <workItem from="1533731624256" duration="6088000" />
+      <workItem from="1533891333283" duration="1715000" />
+      <workItem from="1533894549790" duration="1095000" />
+      <workItem from="1534001231410" duration="595000" />
+      <workItem from="1534064380024" duration="1516000" />
+      <workItem from="1534075569023" duration="72000" />
+      <workItem from="1534076021562" duration="1294000" />
+      <workItem from="1534247432174" duration="1048000" />
+      <workItem from="1534249746345" duration="1024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55941000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32899022" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.329718" />
+      <window_info anchor="bottom" content_ui="combo" id="Run Dashboard" order="5" weight="0.48698482" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.47071582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.49728554" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="14" weight="0.40065145" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Data View" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/java/com/itmuch/cloud/PreZuulFiler.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/cloud/spring-cloud-netflix-core/1.2.2.RELEASE/spring-cloud-netflix-core-1.2.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/Servlet30RequestWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/cloud/spring-cloud-netflix-core/1.2.2.RELEASE/spring-cloud-netflix-core-1.2.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1871">
+          <caret line="79" column="21" lean-forward="true" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/cloud/spring-cloud-netflix-core/1.2.2.RELEASE/spring-cloud-netflix-core-1.2.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul-filter/src/main/java/com/itmuch/cloud/PreZuulFiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/java/com/itmuch/cloud/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-简单使用">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/java/com/itmuch/cloud/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-搜索路径">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-模式匹配">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-cloneOnStart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-设置账号密码">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml.bak-通配符">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt-rsa/src/main/resources/META-INF/additional-spring-configuration-metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt-rsa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client/src/main/java/com/itmuch/cloud/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-discovery-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-authentication/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-authentication/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-authentication/src/main/java/com/itmuch/cloud/ConfigClientAuthenticationApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-authentication/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-authentication/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-provider-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="29" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/cloud/spring-cloud-config-server/1.2.1.RELEASE/spring-cloud-config-server-1.2.1.RELEASE.jar!/org/springframework/cloud/config/server/EnableConfigServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/boot/spring-boot-autoconfigure/1.4.1.RELEASE/spring-boot-autoconfigure-1.4.1.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../rep/mvn_rep/org/springframework/cloud/spring-cloud-config-server/1.2.1.RELEASE/spring-cloud-config-server-1.2.1.RELEASE-sources.jar!/org/springframework/cloud/config/server/EnableConfigServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/src/main/java/com/itmuch/cloud/ConfigClientEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="15" lean-forward="true" selection-end-line="14" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/java/com/itmuch/cloud/ConfigClientRefreshApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/java/com/itmuch/cloud/ConfigClientRefreshBusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/src/main/java/com/itmuch/cloud/ConfigServerEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-client-refresh-bus/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-learning/microservice-config-server-encrypt/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30521643" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6.5 (C:\Python\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30521643" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservice-config-learning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30521643" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

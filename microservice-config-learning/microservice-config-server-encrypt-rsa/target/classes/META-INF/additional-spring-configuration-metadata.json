@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "encrypt.keyStore.alias",
+      "type": "java.lang.String",
+      "description": "Description for encrypt.keyStore.alias."
+  }
+] }
